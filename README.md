@@ -1,2 +1,3 @@
 # Currency Converter
  Scrimba Weekly Web Dev Challenge - Currency Converter
+Takes the users input and changes the currency according to the exchage rate. The message that appears will change between singular and plurals depending on the currency amount. So if you were converting dollars, and the amount was 1, it would show as 1 dollar but if the amount was more than one (let's say 2), the amount would show as 2 dollars. 

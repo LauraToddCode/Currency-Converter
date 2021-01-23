@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#container {
+	height: calc(100vh - 40px);
+	margin: 10px;
+	background-color: #A8D9F8;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+input {
+	width: 150px;
+	height: 30px;
+	font-size: 20px;
+    margin: 5px auto;
+	border-radius: 5px;
+}
+
+input:focus {
+	background-color: #B4F8C8
+}
+
+button {
+	width: 300px;
+	height: 40px;
+	font-size: 20px;
+	font-weight: 600;
+	background-color: #FEDE00;
+	border: 2px solid #6AB8EE;
+	border-radius: 5px;
+}
+
+.highlight {
+	color: coral;
+}
+
+
